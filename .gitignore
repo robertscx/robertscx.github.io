@@ -6,3 +6,7 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+
+# Full-resolution photo originals (source for tools/optimize-photos.js).
+# Web-optimized copies are generated into source/photos and are committed.
+photos-originals/
