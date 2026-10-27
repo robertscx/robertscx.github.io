@@ -2,6 +2,7 @@
 title: 敦煌
 date: 2026-10-26 16:45:55
 categories: 摄影
+index_img: /photos/000009140024.jpg
 ---
 ![](/photos/000009140005.jpg)
 ![](/photos/000009130033.jpg)
